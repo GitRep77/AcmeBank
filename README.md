@@ -5,7 +5,7 @@
 ![.NET Version](https://img.shields.io/badge/.NET-8.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-This project is a small part of a banking system for a company called Acme Bank, implemented using C#. The project focuses on managing two types of accounts, Savings Account and Current Account, and implements basic functionalities like deposit and withdrawal.
+This project is a small part of a banking system for a fictional company called Acme Bank, implemented using C#. The project focuses on managing two types of accounts, Savings Account and Current Account, and implements basic functionalities like deposit and withdrawal.
 
 ## Project Overview
 
